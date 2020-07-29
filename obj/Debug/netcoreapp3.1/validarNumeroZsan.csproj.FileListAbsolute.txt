@@ -1,0 +1,13 @@
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan.deps.json
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan.runtimeconfig.json
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan.runtimeconfig.dev.json
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan.dll
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/bin/Debug/netcoreapp3.1/validarNumeroZsan.pdb
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.csprojAssemblyReference.cache
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.AssemblyInfoInputs.cache
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.AssemblyInfo.cs
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.csproj.CoreCompileInputs.cache
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.dll
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.pdb
+/home/wagner/Documentos/validar-zsan/validarNumeroZsan/obj/Debug/netcoreapp3.1/validarNumeroZsan.genruntimeconfig.cache
